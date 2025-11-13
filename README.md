@@ -33,7 +33,7 @@ DAX • Visual storytelling • KPI tracking
 Status: Coming soon
 ➡️ Folder: PowerBI-Dashboards/Business-Insights-Dashboard
 
-qi Contact
+# Contact
 
 Feel free to reach out for collaboration or opportunities:
 ohenhenpeter@gmail.com
